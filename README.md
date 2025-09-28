@@ -1,22 +1,21 @@
 # Formula 1 Drivers Analysis — 2008 Season
 
-Analysis of drivers’ and constructors’ performance in the **2008 Formula One World Championship**, using only the Python Standard Library.
+Analysis of drivers’ and constructors’ performance in the 2008 Formula One World Championship, using only the Python Standard Library.
 
 ---
 
 ## Objectives
-- Calculate **individual performance** (points, wins, podiums)
-- Generate **Drivers’ Standings** and save to `Drivers_Standings_2008.txt`
-- Compute **Constructors’ Standings**
-- Show **top 10 summaries** in console
+- Calculate individual performance (points, wins, podiums)
+- Generate Drivers’ Standings and save to `Drivers_Standings_2008.txt`
+- Compute Constructors’ Standings
+- Show top 10 summaries in console
 
 ---
 
 ## Dataset
-- **File:** `formula1_data.csv`  
-- **Fallback URL:** auto-download if missing  
-- **Columns:**  
-  - Driver | Team | Race | Country | Position  
+- **File:** `formula1_data.csv`
+- **Fallback URL:** auto-download if missing
+- **Columns:** Driver | Team | Race | Country | Position
 - **Scoring system (2008):** 10–8–6–5–4–3–2–1 for positions 1–8
 
 ---
@@ -32,29 +31,24 @@ Analysis of drivers’ and constructors’ performance in the **2008 Formula One
 
 ## Example Output
 
-**Driver Performance**
+**Driver Performance**  
 Lewis Hamilton → [98 points, 5 wins, 10 podiums]
 
-
 **Top 3 Drivers**
-
-
 Hamilton – 98
-
 Massa – 97
-
 Kubica – 75
 
+css
+Copia codice
 
 **Top 3 Constructors**
-
-
 Ferrari – 172
-
 McLaren – 151
-
 BMW – 135
 
+yaml
+Copia codice
 
 ---
 
@@ -66,4 +60,4 @@ BMW – 135
 ---
 
 ## License
-MIT License © 2025 *Salvatore Spagnolo*
+MIT License © 2025 Salvatore Spagnolo
