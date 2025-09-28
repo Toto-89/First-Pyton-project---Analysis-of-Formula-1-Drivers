@@ -39,16 +39,13 @@ Hamilton – 98
 Massa – 97
 Kubica – 75
 
-css
-Copia codice
+
 
 **Top 3 Constructors**
 Ferrari – 172
 McLaren – 151
 BMW – 135
 
-yaml
-Copia codice
 
 ---
 
