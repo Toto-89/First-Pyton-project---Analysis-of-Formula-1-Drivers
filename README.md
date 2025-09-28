@@ -1,6 +1,6 @@
 # Formula 1 Drivers Analysis — 2008 Season
 
-Simple analysis of drivers’ and constructors’ performance in the 2008 Formula One World Championship, using only the Python Standard Library.
+Analysis of drivers’ and constructors’ performance in the 2008 Formula One World Championship, using only the Python Standard Library.
 
 ---
 
